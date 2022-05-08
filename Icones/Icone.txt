@@ -1,0 +1,13 @@
+Plus :		<i class="fa-solid fa-square-plus"></i>
+Panier :	<i class="fa-solid fa-basket-shopping"></i>
+Moins :		<i class="fa-solid fa-square-minus"></i>
+Confirmer :	<i class="fa-solid fa-square-check"></i> 
+Supprimer :	<i class="fa-solid fa-trash-can"></i>
+Imprimer :	<i class="fa-solid fa-print"></i>
+Next :		<i class="fa-solid fa-arrow-right"></i>
+Previous :	<i class="fa-solid fa-arrow-left"></i>
+Tel : 		<i class="fa-solid fa-phone"></i>
+Email :		<i class="fa-solid fa-envelope"></i>
+Shop : 		<i class="fa-light fa-shop"></i>
+Star : 		<i class="fa-solid fa-star"></i>
+Star vide : 	<i class="fa-thin fa-star"></i>
